@@ -1,7 +1,7 @@
 """
 Gra:
     Game of Nim[https://pl.wikipedia.org/wiki/Nim]
-    Mozliwosc zagrania[TODO]
+    Mozliwosc zagrania[https://www.archimedes-lab.org/game_nim/play_nim_game.html]
 
 Autorzy:
     Aleksander Dudek s20155
